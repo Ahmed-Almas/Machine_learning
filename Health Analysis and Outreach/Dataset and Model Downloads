@@ -1,0 +1,14 @@
+## Dataset and Model Downloads
+
+Due to GitHub file size limitations, some large files are hosted on Kaggle.
+
+### Kaggle Dataset
+
+https://www.kaggle.com/datasets/ahmedalmasaaaaaa/asa-rating
+
+### Included Files
+
+* asa.pkl (ASA Rating Prediction Model)
+* day.pkl (Length of Stay Prediction Model)
+* MRN.csv (Full Dataset)
+* HDHI Admission data.csv (Reduced Dataset)
